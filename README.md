@@ -1,4 +1,4 @@
-# Hi there, I'm Om Sardar! 👋
+# Hi there, I'm Om Sardar! 👋🏻
 
 ### Full-Stack Developer | MERN Specialist | Final Year BCA Student
 
@@ -93,7 +93,7 @@ A full-featured auction platform with real-time bidding capabilities, digital wa
 
 ---
 
-## 🤝 Let's Connect!
+## 🫱🏻‍🫲🏻 Let's Connect!
 
 I'm always excited to collaborate on interesting projects and connect with fellow developers. Feel free to reach out!
 

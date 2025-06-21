@@ -72,7 +72,6 @@ I'm a motivated and self-taught developer with practical experience in full-stac
 ### 📫 Contact Me
 
 - 📧 omsardar14@gmail.com  
-- 📞 +91 84********  
 - 🌍 Daulatpur, Pailan, Kolkata, WB, India  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/om-sardar)
 

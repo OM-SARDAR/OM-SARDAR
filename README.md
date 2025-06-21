@@ -54,17 +54,6 @@ I'm a passionate full-stack developer in my final year of BCA, specializing in b
 [![Moment.js](https://img.shields.io/badge/Moment.js-2C5aa0?style=flat&logo=moment.js&logoColor=white)](https://momentjs.com/)
 [![Date-fns](https://img.shields.io/badge/Date--fns-770C56?style=flat&logo=date-fns&logoColor=white)](https://date-fns.org/)
 
-### **🧩 React Components & Enhancers**
-[![React Phone Input](https://img.shields.io/badge/React_Phone_Input-61DAFB?style=flat&logo=react&logoColor=black)](https://www.npmjs.com/package/react-phone-number-input)
-[![React Day Picker](https://img.shields.io/badge/React_Day_Picker-61DAFB?style=flat&logo=react&logoColor=black)](https://react-day-picker.js.org/)
-[![React Scroll](https://img.shields.io/badge/React_Scroll-61DAFB?style=flat&logo=react&logoColor=black)](https://github.com/fisshy/react-scroll)
-[![React Intersection Observer](https://img.shields.io/badge/React_Intersection_Observer-61DAFB?style=flat&logo=react&logoColor=black)](https://github.com/thebuilder/react-intersection-observer)
-[![React Transition Group](https://img.shields.io/badge/React_Transition_Group-61DAFB?style=flat&logo=react&logoColor=black)](https://reactcommunity.org/react-transition-group/)
-
-### **📋 Forms & Validation**
-[![Validator](https://img.shields.io/badge/Validator-4CAF50?style=flat&logo=javascript&logoColor=white)](https://github.com/validatorjs/validator.js)
-[![Libphonenumber](https://img.shields.io/badge/Libphonenumber-34A853?style=flat&logo=google&logoColor=white)](https://github.com/google/libphonenumber)
-
 ### **📄 PDF & Document Generation**
 [![jsPDF](https://img.shields.io/badge/jsPDF-FF5722?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/parallax/jsPDF)
 [![PDF-lib](https://img.shields.io/badge/PDF--lib-FF5722?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://pdf-lib.js.org/)

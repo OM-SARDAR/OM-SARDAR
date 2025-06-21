@@ -95,56 +95,13 @@ I'm a passionate full-stack developer in my final year of BCA, specializing in b
 
 ## 🚀 Featured Projects
 
-### 🏆 **Auction-X** - Real-Time Bidding Platform
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat&logo=github)](https://github.com/OM-SARDAR/AUCTION-X-LOCALHOST)
-
-A full-featured auction platform with real-time bidding capabilities, digital wallet system, and secure authentication.
-
-**Key Features:**
-- 🔴 Real-time bidding with Socket.IO
-- 💰 Digital wallet & coin-based transactions
-- 🔐 JWT authentication & authorization
-- ☁️ Cloudinary integration for media storage
-- 📱 Fully responsive design
-
-**Tech Stack:** MERN, Socket.IO, JWT, Cloudinary, Bootstrap
-
-
-### 🏆 **Auction-X-Enhanced** - Real-Time Bidding Platform with AI integrated 
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat&logo=github)](https://github.com/OM-SARDAR/AUCTION-X-Enhanced-LOCALHOST)
-
-A full-featured auction platform with real-time bidding capabilities, digital wallet system, and secure authentication.
-
-**Key Features:**
-- 🔴 Real-time bidding with Socket.IO
-- 💰 Digital wallet & coin-based transactions
-- 🔐 JWT authentication & authorization
-- ☁️ Cloudinary integration for media storage
-- 📱 Fully responsive design
-
-**Tech Stack:** MERN, Socket.IO, JWT, Cloudinary, Tailwind
-
----
-
-## 🏆 Achievements
-
-- 🥇 **Smart India Hackathon 2024** - National Finalist
-- ☁️ **Cloud Engineering Bootcamp** - Graduate (2024)
-- 🍃 **MongoDB Backend Development** - Codecademy Certified
-- 🎓 **Academic Excellence** - Consistent top performer
-
----
-## 🚀 Featured Projects
-
-| **Project 1** | **Project 2** |
+| **Auction-X** | **Auction-X-Enhanced** |
 |---------------|---------------|
 | ### 🏆 **Auction-X** - Real-Time Bidding Platform<br>[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat&logo=github)](https://github.com/OM-SARDAR/AUCTION-X-LOCALHOST)<br><br>A full-featured auction platform with real-time bidding capabilities, digital wallet system, and secure authentication.<br><br>**Key Features:**<br>- 🔴 Real-time bidding with Socket.IO<br>- 💰 Digital wallet & coin-based transactions<br>- 🔐 JWT authentication & authorization<br>- ☁️ Cloudinary integration for media storage<br>- 📱 Fully responsive design<br><br>**Tech Stack:** MERN, Socket.IO, JWT, Cloudinary, Bootstrap | ### 🏆 **Auction-X-Enhanced** - Real-Time Bidding Platform with AI integrated<br>[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat&logo=github)](https://github.com/OM-SARDAR/AUCTION-X-Enhanced-LOCALHOST)<br><br>A full-featured auction platform with real-time bidding capabilities, digital wallet system, and secure authentication.<br><br>**Key Features:**<br>- 🔴 Real-time bidding with Socket.IO<br>- 💰 Digital wallet & coin-based transactions<br>- 🔐 JWT authentication & authorization<br>- ☁️ Cloudinary integration for media storage<br>- 📱 Fully responsive design<br><br>**Tech Stack:** MERN, Socket.IO, JWT, Cloudinary, Tailwind |
 
-| **Project 3** | **Project 4** |
+| **Eventra** | **Lucy-Chat** |
 |---------------|---------------|
 | ### 🏆 **Project Title 3** - Project Description<br>[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat&logo=github)](https://github.com/your-username/project-3)<br><br>Brief description of your third project and what it accomplishes.<br><br>**Key Features:**<br>- ⚡ Feature 1<br>- 🎯 Feature 2<br>- 🛠️ Feature 3<br>- 🔧 Feature 4<br>- 📊 Feature 5<br><br>**Tech Stack:** Technology stack used for this project | ### 🏆 **Project Title 4** - Project Description<br>[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat&logo=github)](https://github.com/your-username/project-4)<br><br>Brief description of your fourth project and what it accomplishes.<br><br>**Key Features:**<br>- 🚀 Feature 1<br>- 💡 Feature 2<br>- 🎨 Feature 3<br>- 📱 Feature 4<br>- 🔒 Feature 5<br><br>**Tech Stack:** Technology stack used for this project |
-
----
 ---
 
 ## 📊 GitHub Stats

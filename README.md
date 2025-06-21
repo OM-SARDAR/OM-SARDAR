@@ -162,15 +162,6 @@ I'm a passionate full-stack developer in my final year of BCA, specializing in b
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OM-SARDAR&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OM-SARDAR&layout=compact&theme=radical"/>
-</div>
-
----
-
 ## 🫱🏻‍🫲🏻 Let's Connect!
 
 I'm always excited to collaborate on interesting projects and connect with fellow developers. Feel free to reach out!

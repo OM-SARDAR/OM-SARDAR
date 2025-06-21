@@ -92,7 +92,7 @@ A full-featured auction platform with real-time bidding capabilities, digital wa
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OM-SARDAR&theme=radical"/>
+  <img src="https://github-readme-streak-stats.demolab.com/?user=OM-SARDAR&theme=radical" />
 </div>
 
 ---
@@ -103,8 +103,8 @@ I'm always excited to collaborate on interesting projects and connect with fello
 
 **💬 Open to:** Full-Stack Developer roles • Internships • Freelance projects • Open source contributions
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:youremail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/om-sardar/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:omsardar14@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com)
 
 ---

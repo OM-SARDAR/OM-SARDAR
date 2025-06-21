@@ -14,7 +14,7 @@
 
 ## 💫 Professional Summary
 
-> **BCA Final Year Student** specializing in full-stack development with expertise in building scalable, real-time applications. Passionate about creating efficient solutions that drive business value through innovative technology implementations.
+**BCA Final Year Student** specializing in full-stack development with expertise in building scalable, real-time applications. Passionate about creating efficient solutions that drive business value through innovative technology implementations.
 
 ```javascript
 const omSardar = {

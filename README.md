@@ -8,20 +8,18 @@
 
 ---
 
-## 🚀 About Me
-
 I'm a passionate full-stack developer in my final year of BCA, specializing in building scalable web applications with the MERN stack. I love creating real-time applications and turning complex problems into elegant solutions.
 
 - 🎓 **Education:** Bachelor of Computer Applications (Final Year)
 - 🌱 **Currently Learning:** Cyber Security Services, Advanced AI/ML, Integration DevOps , AWS & CI/CD Pipelines
 - 💼 **Open to:** Internships, Full-time roles, and exciting projects
 - 📍 **Location:** India
-
 ---
 
 ## 🛠️ Technical Skills
 
 ### **Frontend**
+
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 [![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)

@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi, I'm Om Sardar!
 
-<!--
-**OM-SARDAR/OM-SARDAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Software Developer | Full Stack Web Developer  
+💻 Proficient in **JavaScript**, **Java**, **C**, **Python**, **MERN Stack**  
+📚 Passionate about Real-time Web Apps, Data Structures & System Design
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Interests
+
+- Web Development (Frontend & Backend)
+- AI & Data Analytics
+- Real-Time Bidding Platforms & Scalable Systems
+
+---
+
+### 🛠️ Skills
+
+- MERN Stack (MongoDB, Express.js, React.js, Node.js)
+- C, Java, Python, JavaScript
+- Git, GitHub, REST APIs, Socket.IO, MongoDB, Cloudinary
+
+---
+
+### 📈 Projects
+
+- 🔹 [Auction-X](https://github.com/OM-SARDAR/AUCTION-X-LOCALHOST) – A real-time online bidding platform using MERN & Socket.IO  
+- 🔹 *Event Management System* – (Upcoming) A MERN stack-based platform for hosting & managing events  
+- 🔹 *Portfolio Website* – Personal website showcasing projects and skills
+
+---
+
+### 🌱 Learning & Growth
+
+- Integrating Google Authentication & Payment Systems  
+- Applying Data Structures in Full Stack Projects  
+- Exploring AI, Machine Learning & Advanced JavaScript
+
+---
+
+### 🤝 Collaboration
+
+- Open to internships, team projects & tech-based collaborations  
+- Always ready to lead, learn, and build together!
+
+---
+
+### 📫 Connect with Me
+
+- 📧 omsardar0001@gmail.com  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/om-sardar)  
+- 🌍 Based in India

@@ -103,8 +103,51 @@ I'm a passionate full-stack developer in my final year of BCA, specializing in b
 |---------------|---------------|
 | ### 🏆 **Auction-X** - Real-Time Bidding Platform<br>[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat&logo=github)](https://github.com/OM-SARDAR/AUCTION-X-LOCALHOST)<br><br>A full-featured auction platform with real-time bidding capabilities, digital wallet system, and secure authentication.<br><br>**Key Features:**<br>- 🔴 Real-time bidding with Socket.IO<br>- 💰 Digital wallet & coin-based transactions<br>- 🔐 JWT authentication & authorization<br>- ☁️ Cloudinary integration for media storage<br>- 📱 Fully responsive design<br><br>**Tech Stack:** MERN, Socket.IO, JWT, Cloudinary, Bootstrap | ### 🏆 **Auction-X-Enhanced** - Real-Time Bidding Platform with AI integrated<br>[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat&logo=github)](https://github.com/OM-SARDAR/AUCTION-X-Enhanced-LOCALHOST)<br><br>A full-featured auction platform with real-time bidding capabilities, digital wallet system, and secure authentication.<br><br>**Key Features:**<br>- 🔴 Real-time bidding with Socket.IO<br>- 💰 Digital wallet & coin-based transactions<br>- 🔐 JWT authentication & authorization<br>- ☁️ Cloudinary integration for media storage<br>- 📱 Fully responsive design<br><br>**Tech Stack:** MERN, Socket.IO, JWT, Cloudinary, Tailwind |
 
-| <strong>Auction-X</strong><br><a href="https://github.com/OM-SARDAR/AUCTION-X-LOCALHOST"><img src="https://img.shields.io/badge/View_Code-181717?style=flat&logo=github"></a><br>A real-time auction platform with coin-based bidding and secure auth.<br><br>🔴 Socket.IO<br>💰 Wallet System<br>🔐 JWT Auth<br>☁️ Cloudinary<br>📱 Responsive<br><br>Tech: MERN, Bootstrap | <strong>Auction-X-Enhanced</strong><br><a href="https://github.com/OM-SARDAR/AUCTION-X-Enhanced-LOCALHOST"><img src="https://img.shields.io/badge/View_Code-181717?style=flat&logo=github"></a><br>Enhanced platform with AI and real-time bidding capabilities.<br><br>🔴 Socket.IO<br>💰 Wallet System<br>🔐 JWT Auth<br>☁️ Cloudinary<br>📱 Responsive<br><br>Tech: MERN, Tailwind |
-|:--|:--|
+<table>
+<tr>
+<td width="50%">
+
+<h3>🏆 <strong>Auction-X</strong></h3>
+
+<a href="https://github.com/OM-SARDAR/AUCTION-X-LOCALHOST">
+  <img src="https://img.shields.io/badge/View_Code-181717?style=flat&logo=github" />
+</a>
+
+<p>A real-time bidding platform with coin-based transactions and secure auth.</p>
+
+**Key Features:**
+- 🔴 Real-time bidding (Socket.IO)
+- 💰 Digital wallet & coins
+- 🔐 JWT Authentication
+- ☁️ Cloudinary Media
+- 📱 Responsive UI
+
+**Tech Stack:** MERN, Socket.IO, JWT, Cloudinary, Bootstrap
+
+</td>
+
+<td width="50%">
+
+<h3>🏆 <strong>Auction-X-Enhanced</strong></h3>
+
+<a href="https://github.com/OM-SARDAR/AUCTION-X-Enhanced-LOCALHOST">
+  <img src="https://img.shields.io/badge/View_Code-181717?style=flat&logo=github" />
+</a>
+
+<p>Enhanced platform with AI, real-time bidding, and modern Tailwind styling.</p>
+
+**Key Features:**
+- 🔴 Real-time bidding (Socket.IO)
+- 💰 Digital wallet & coins
+- 🔐 JWT Authentication
+- ☁️ Cloudinary Media
+- 📱 Responsive UI
+
+**Tech Stack:** MERN, Socket.IO, JWT, Cloudinary, Tailwind
+
+</td>
+</tr>
+</table>
 
 
 ---

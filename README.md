@@ -92,7 +92,7 @@ A full-featured auction platform with real-time bidding capabilities, digital wa
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OM-SARDAR&theme=radical" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OM-SARDAR&theme=radical"/>
 </div>
 
 ---

@@ -16,15 +16,15 @@
 
 **BCA Final Year Student** specializing in full-stack development with expertise in building scalable, real-time applications. Passionate about creating efficient solutions that drive business value through innovative technology implementations.
 
-```javascript
-const omSardar = {
-    education: "Bachelor of Computer Applications (Final Year)",
-    specialization: "MERN Stack Development",
-    focus: ["Real-time Applications", "System Architecture", "API Design"],
-    currentStatus: "Open to Internships & Full-time Opportunities",
-    location: "India"
-};
-```
+<div align="center">
+
+**🎓 Education:** Bachelor of Computer Applications (Final Year)  
+**💻 Specialization:** MERN Stack Development  
+**🎯 Focus Areas:** Real-time Applications • System Architecture • API Design  
+**📍 Status:** Open to Internships & Full-time Opportunities  
+**🌏 Location:** India
+
+</div>
 
 ---
 

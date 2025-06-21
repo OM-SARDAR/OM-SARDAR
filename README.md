@@ -85,7 +85,7 @@ I'm a passionate full-stack developer in my final year of BCA, specializing in b
 [![PDFKit](https://img.shields.io/badge/PDFKit-FF5722?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://pdfkit.org/)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)](https://redis.io/)
 
-### **Programming Language Shield Badges Collection**
+### **Programming Languages**
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)

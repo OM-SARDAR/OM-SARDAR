@@ -91,10 +91,6 @@ A full-featured auction platform with real-time bidding capabilities, digital wa
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OM-SARDAR&layout=compact&theme=radical"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=OM-SARDAR&theme=radical" />
-</div>
-
 ---
 
 ## 🤝 Let's Connect!

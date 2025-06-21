@@ -1,77 +1,59 @@
-# 👋 Hi, I'm Om Sardar!
+# 👋 Hi, I'm Om Sardar!  
 
-🚀 Aspiring Full Stack Web Developer | MERN Stack Enthusiast  
-🎓 BCA Student at Pailan College of Management & Technology (MAKAUT)  
-💡 Passionate about solving real-world problems using technology
-
----
-
-### 🧠 About Me
-
-I'm a motivated and self-taught developer with practical experience in full-stack development using the MERN stack. I enjoy building scalable web applications, diving deep into data structures, and creating secure, optimized software solutions. I recently completed a successful internship at **Euphoria GenX**, where I contributed to multiple live projects and deployed full-stack apps with 99.9% uptime.
+**🚀 Full-Stack Developer | MERN Specialist | Problem Solver**  
+**🎓 BCA @ Pailan College (MAKAUT) | Ex-Intern @ Euphoria GenX**  
 
 ---
 
-### 🛠️ Technical Skills
-
-- **Languages:** JavaScript, Java, C, C++, Python, VB.NET  
-- **Frontend:** HTML, CSS, Bootstrap, Tailwind CSS, Chakra UI, Ant Design, React.js  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB, MySQL  
-- **Core CS Concepts:** Data Structures & Algorithms, OOP  
-- **Tools:** Git, GitHub, Postman, VS Code, Eclipse  
-- **Other:** JWT, OAuth 2.0, RESTful APIs, Socket.IO, Shell Scripting, Render Deployment
+### 🔥 **About Me**  
+I build scalable web apps with **MERN stack**, solve real-world problems, and thrive in collaborative environments. Recently deployed full-stack projects with **99.9% uptime** during my internship.  
 
 ---
 
-### 📈 Projects
+### ⚡ **Tech Stack**  
 
-- 🔹 [Auction-X](https://github.com/OM-SARDAR/AUCTION-X-LOCALHOST)  
-  Real-time online bidding platform using the MERN stack and Socket.IO  
-  - Increased active users by 87%  
-  - Used CI/CD deployment on Render  
-  - Integrated secure bid logic with 99% accuracy
+#### **Languages**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)  
+![Java](https://img.shields.io/badge/-Java-007396?logo=java)  
 
-- 🔹 **Chat Connect AI**  
-  Real-time chat app with integrated AI assistant (Gemini API)  
-  - Handled 500+ messages/day with 85% response accuracy  
-  - Secure E2E encrypted chat using WebSockets and MongoDB
+#### **Frontend**  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react)  
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss)  
 
-- 🔹 **Eventra** (Academic Project)  
-  Smart event ticketing system with QR code check-ins  
-  - Managed 800+ attendees with 60% faster check-in  
-  - Designed frontend UI and ensured mobile responsiveness
+#### **Backend & DB**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)  
 
----
-
-### 🌱 Learning & Growth
-
-- Exploring AI & Gemini API integrations  
-- Practicing DSA in Java and Python  
-- Learning DevOps, CI/CD pipelines & cloud services (AWS/GCP)
+#### **Tools**  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git)  
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman)  
 
 ---
 
-### 📜 Certifications
+### 🏆 **Top Projects**  
 
-- ✅ Working with Subqueries in SQL (Coursera)  
-- ✅ 100 Days of Code: The Complete Python Pro Bootcamp (Udemy)  
-- ✅ Data Structures and Algorithms in Java (YouTube)  
-- ✅ MERN Stack Development (Euphoria GenX)  
-- ✅ The Complete Full-Stack Web Development Bootcamp (Udemy)
+#### [**Auction-X**](https://github.com/OM-SARDAR/AUCTION-X-LOCALHOST)  
+MERN-based real-time bidding platform | **87% user growth** | CI/CD on Render  
+`React` `Socket.IO` `JWT`  
+
+#### **Chat Connect AI**  
+E2E encrypted chat + AI assistant (Gemini API) | **500+ msgs/day**  
+`WebSockets` `MERN`  
+
+#### **Eventra**  
+QR-based event ticketing system | **60% faster check-ins**  
+`Bootstrap` `MySQL`  
 
 ---
 
-### 🤝 Let's Collaborate
-
-- Open to internships, freelance projects, or full-time roles  
-- Always eager to contribute to impactful projects and innovative teams!
+### 📜 **Certifications**  
+- **MERN Stack Dev** (Euphoria GenX)  
+- **100 Days of Python** (Udemy)  
+- **DSA in Java** (YouTube)  
 
 ---
 
-### 📫 Contact Me
-
-- 📧 omsardar14@gmail.com  
-- 🌍 Daulatpur, Pailan, Kolkata, WB, India  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/om-sardar)
-
+### 📫 **Let’s Connect!**  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/om-sardar)  
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail)](mailto:omsardar14@gmail.com)  

@@ -58,48 +58,33 @@ I'm a passionate full-stack developer in my final year of BCA, specializing in b
 
 
 ### **Backend & Database**
-[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/en)
-[![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101)](https://socket.io/)
-### **Backend**
 
-### **🔧 Core Backend Stack**
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white)](https://mongoosejs.com/)
-
-### **🔐 Security & Middleware**
 [![CORS](https://img.shields.io/badge/CORS-FF6C37?style=flat&logo=javascript&logoColor=white)](https://github.com/expressjs/cors)
 [![Helmet](https://img.shields.io/badge/Helmet-000000?style=flat&logo=helmet&logoColor=white)](https://helmetjs.github.io/)
 [![dotenv](https://img.shields.io/badge/dotenv-ECD53F?style=flat&logo=dotenv&logoColor=black)](https://github.com/motdotla/dotenv)
 [![Express Rate Limit](https://img.shields.io/badge/Rate_Limit-FF6B6B?style=flat&logo=express&logoColor=white)](https://github.com/nfriedly/express-rate-limit)
-
 [![Cookie Parser](https://img.shields.io/badge/Cookie_Parser-8B4513?style=flat&logo=javascript&logoColor=white)](https://github.com/expressjs/cookie-parser)
 [![Mongo Sanitize](https://img.shields.io/badge/Mongo_Sanitize-4EA94B?style=flat&logo=mongodb&logoColor=white)](https://github.com/fiznool/express-mongo-sanitize)
 [![CSRF](https://img.shields.io/badge/CSRF-DC143C?style=flat&logo=security&logoColor=white)](https://github.com/expressjs/csurf)
-
-### **🔒 Authentication & Authorization**
 [![bcrypt](https://img.shields.io/badge/bcrypt-3178C6?style=flat&logo=npm&logoColor=white)](https://github.com/kelektiv/node.bcrypt.js)
 [![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=JSON%20web%20tokens&logoColor=white)](https://jwt.io/)
 [![Passport](https://img.shields.io/badge/Passport-34E27A?style=flat&logo=passport&logoColor=white)](http://www.passportjs.org/)
 [![Google OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=flat&logo=google&logoColor=white)](https://developers.google.com/identity/protocols/oauth2)
-
-### **📤 File Handling & Communication**
 [![Multer](https://img.shields.io/badge/Multer-FF6600?style=flat&logo=javascript&logoColor=white)](https://github.com/expressjs/multer)
 [![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)](https://cloudinary.com/)
 [![Nodemailer](https://img.shields.io/badge/Nodemailer-339933?style=flat&logo=nodemailer&logoColor=white)](https://nodemailer.com/)
 [![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white)](https://socket.io/)
-
-### **🛠️ Utilities & Tools**
 [![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white)](https://axios-http.com/)
 [![Express Validator](https://img.shields.io/badge/Express_Validator-404D59?style=flat&logo=express&logoColor=white)](https://express-validator.github.io/)
 [![Morgan](https://img.shields.io/badge/Morgan-000000?style=flat&logo=javascript&logoColor=white)](https://github.com/expressjs/morgan)
 [![Winston](https://img.shields.io/badge/Winston-231F20?style=flat&logo=winston&logoColor=white)](https://github.com/winstonjs/winston)
-
 [![PDFKit](https://img.shields.io/badge/PDFKit-FF5722?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://pdfkit.org/)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)](https://redis.io/)
+
 ### **Tools & Technologies**
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/)

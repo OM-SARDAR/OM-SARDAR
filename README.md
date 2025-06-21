@@ -59,8 +59,8 @@ A full-featured auction platform with real-time bidding capabilities, digital wa
 **Tech Stack:** MERN, Socket.IO, JWT, Cloudinary, Bootstrap
 
 
-### 🏆 **Auction-X** - Real-Time Bidding Platform
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat&logo=github)](https://github.com/OM-SARDAR/AUCTION-X-LOCALHOST)
+### 🏆 **Auction-X-Enhanced** - Real-Time Bidding Platform with AI integrated 
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat&logo=github)](https://github.com/OM-SARDAR/AUCTION-X-Enhanced-LOCALHOST)
 
 A full-featured auction platform with real-time bidding capabilities, digital wallet system, and secure authentication.
 
@@ -71,7 +71,7 @@ A full-featured auction platform with real-time bidding capabilities, digital wa
 - ☁️ Cloudinary integration for media storage
 - 📱 Fully responsive design
 
-**Tech Stack:** MERN, Socket.IO, JWT, Cloudinary, Bootstrap
+**Tech Stack:** MERN, Socket.IO, JWT, Cloudinary, Tailwind
 
 ---
 

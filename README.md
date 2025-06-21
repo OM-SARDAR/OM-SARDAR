@@ -13,7 +13,7 @@
 I'm a passionate full-stack developer in my final year of BCA, specializing in building scalable web applications with the MERN stack. I love creating real-time applications and turning complex problems into elegant solutions.
 
 - 🎓 **Education:** Bachelor of Computer Applications (Final Year)
-- 🌱 **Currently Learning:** Advanced React patterns and cloud technologies
+- 🌱 **Currently Learning:** Cyber Security Services, Advanced AI/ML, Integration DevOps , AWS & CI/CD Pipelines
 - 💼 **Open to:** Internships, Full-time roles, and exciting projects
 - 📍 **Location:** India
 

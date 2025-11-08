@@ -1,6 +1,6 @@
 # Hi there, I'm Om Sardar! 👋🏻
 
-### Full-Stack Developer | MERN Specialist | Final Year BCA Student
+### Full-Stack Developer | MERN Specialist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-sardar/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:omsardar14@gmail.com)
@@ -8,7 +8,7 @@
 
 ---
 
-I'm a passionate full-stack developer in my final year of BCA, specializing in building scalable web applications with the MERN stack. I love creating real-time applications and turning complex problems into elegant solutions.
+I'm a passionate full-stack developer, specializing in building scalable web applications with the MERN stack. I love creating real-time applications and turning complex problems into elegant solutions.
 
 - 🎓 **Education:** Bachelor of Computer Applications (Final Year)
 - 🌱 **Currently Learning:** Cyber Security Services, Advanced AI/ML Integration , DevOps AWS & CI/CD Pipelines

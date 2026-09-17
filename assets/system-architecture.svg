@@ -1,0 +1,172 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#1e293b" />
+    </linearGradient>
+
+    <!-- Box Gradient -->
+    <linearGradient id="boxGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b" />
+      <stop offset="100%" stop-color="#334155" />
+    </linearGradient>
+    
+    <!-- Outer Container Gradient -->
+    <linearGradient id="containerGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#334155" stop-opacity="0.1"/>
+    </linearGradient>
+
+    <!-- Glow Filter -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#38bdf8" />
+    </marker>
+  </defs>
+
+  <style>
+    .text-title {
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 16px;
+      font-weight: bold;
+      fill: #f8fafc;
+      text-anchor: middle;
+    }
+    .text-subtitle {
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 13px;
+      fill: #94a3b8;
+      text-anchor: middle;
+    }
+    .box {
+      fill: url(#boxGrad);
+      stroke: #475569;
+      stroke-width: 2;
+      rx: 8;
+      transition: all 0.3s ease;
+    }
+    .box:hover {
+      stroke: #38bdf8;
+      filter: url(#glow);
+    }
+    .container-box {
+      fill: url(#containerGrad);
+      stroke: #6366f1;
+      stroke-width: 2;
+      rx: 12;
+      stroke-dasharray: 8 4;
+      animation: dashMove 20s linear infinite;
+    }
+    .line {
+      stroke: #38bdf8;
+      stroke-width: 2;
+      fill: none;
+      marker-end: url(#arrowhead);
+    }
+    .animated-line {
+      stroke: #38bdf8;
+      stroke-width: 2;
+      fill: none;
+      stroke-dasharray: 6 6;
+      animation: flow 1s linear infinite;
+    }
+    @keyframes flow {
+      from { stroke-dashoffset: 12; }
+      to { stroke-dashoffset: 0; }
+    }
+    @keyframes dashMove {
+      from { stroke-dashoffset: 240; }
+      to { stroke-dashoffset: 0; }
+    }
+    .particle {
+      fill: #0ea5e9;
+      filter: url(#glow);
+    }
+  </style>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="url(#bgGrad)" />
+
+  <!-- Flow Paths for Particles -->
+  <path id="path1" d="M 400 130 L 400 185" class="animated-line" />
+  <path id="path2" d="M 400 270 L 400 315" class="animated-line" />
+  <path id="path3" d="M 400 630 L 400 685" class="animated-line" />
+
+  <!-- Particles -->
+  <circle r="4" class="particle">
+    <animateMotion dur="1.5s" repeatCount="indefinite" path="M 400 130 L 400 185" />
+  </circle>
+  <circle r="4" class="particle">
+    <animateMotion dur="1.5s" repeatCount="indefinite" path="M 400 270 L 400 315" />
+  </circle>
+  <circle r="4" class="particle">
+    <animateMotion dur="1.5s" repeatCount="indefinite" path="M 400 630 L 400 685" />
+  </circle>
+
+  <!-- ==================== CLIENT ==================== -->
+  <g transform="translate(280, 50)">
+    <rect width="240" height="80" class="box" />
+    <text x="120" y="35" class="text-title">Client</text>
+    <text x="120" y="60" class="text-subtitle">(React / Web)</text>
+  </g>
+
+  <!-- ==================== LOAD BALANCER ==================== -->
+  <g transform="translate(280, 190)">
+    <rect width="240" height="80" class="box" />
+    <text x="120" y="35" class="text-title">Load Balancer</text>
+    <text x="120" y="60" class="text-subtitle">(Nginx / ALB)</text>
+  </g>
+
+  <!-- ==================== API / APPLICATION CONTAINER ==================== -->
+  <g transform="translate(100, 320)">
+    <rect width="600" height="310" class="container-box" />
+    <text x="300" y="35" class="text-title" fill="#818cf8">API / Application</text>
+    <text x="300" y="60" class="text-subtitle">(Node.js / Spring Boot)</text>
+
+    <!-- Sub-components Row 1 -->
+    <g transform="translate(40, 90)">
+      <rect width="140" height="80" class="box" />
+      <text x="70" y="35" class="text-title">Auth</text>
+      <text x="70" y="60" class="text-subtitle">(JWT/OAuth)</text>
+    </g>
+    <g transform="translate(230, 90)">
+      <rect width="140" height="80" class="box" />
+      <text x="70" y="35" class="text-title">Cache</text>
+      <text x="70" y="60" class="text-subtitle">(Redis)</text>
+    </g>
+    <g transform="translate(420, 90)">
+      <rect width="140" height="80" class="box" />
+      <text x="70" y="35" class="text-title">Queue</text>
+      <text x="70" y="60" class="text-subtitle">(Kafka)</text>
+    </g>
+
+    <!-- Sub-components Row 2 -->
+    <g transform="translate(40, 200)">
+      <rect width="140" height="80" class="box" />
+      <text x="70" y="35" class="text-title">Database</text>
+      <text x="70" y="60" class="text-subtitle">(MongoDB/SQL)</text>
+    </g>
+    <g transform="translate(230, 200)">
+      <rect width="140" height="80" class="box" />
+      <text x="70" y="35" class="text-title">Storage</text>
+      <text x="70" y="60" class="text-subtitle">(Cloudinary)</text>
+    </g>
+    <g transform="translate(420, 200)">
+      <rect width="140" height="80" class="box" />
+      <text x="70" y="35" class="text-title">External</text>
+      <text x="70" y="60" class="text-subtitle">APIs</text>
+    </g>
+  </g>
+
+  <!-- ==================== OBSERVABILITY ==================== -->
+  <g transform="translate(280, 690)">
+    <rect width="240" height="80" class="box" />
+    <text x="120" y="35" class="text-title">Observability</text>
+    <text x="120" y="60" class="text-subtitle">(Logs / Metrics)</text>
+  </g>
+</svg>

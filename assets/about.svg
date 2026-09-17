@@ -1,0 +1,237 @@
+<svg width="520" height="220" viewBox="0 0 520 220"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <clipPath id="panel">
+      <rect x="1" y="1" width="518" height="218" rx="18"/>
+    </clipPath>
+
+  </defs>
+
+  <!-- Background -->
+
+  <rect
+    x="1"
+    y="1"
+    width="518"
+    height="218"
+    rx="18"
+    fill="url(#bg)"
+    stroke="#30363d"
+    stroke-width="2"
+  />
+
+  <!-- Animated gradient border -->
+
+  <rect
+    x="2"
+    y="2"
+    width="516"
+    height="216"
+    rx="17"
+    fill="none"
+    stroke="url(#accent)"
+    stroke-width="2"
+    stroke-dasharray="120 500"
+  >
+
+    <animate
+      attributeName="stroke-dashoffset"
+      from="0"
+      to="-620"
+      dur="6s"
+      repeatCount="indefinite"
+    />
+
+  </rect>
+
+  <!-- Header -->
+
+  <text
+    x="30"
+    y="42"
+    fill="#8b949e"
+    font-family="monospace"
+    font-size="13"
+    letter-spacing="2"
+  >
+    DEVELOPER PROFILE
+  </text>
+
+  <!-- Status -->
+
+  <circle
+    cx="465"
+    cy="37"
+    r="6"
+    fill="#3fb950"
+    filter="url(#glow)"
+  >
+
+    <animate
+      attributeName="opacity"
+      values="1;0.35;1"
+      dur="2s"
+      repeatCount="indefinite"
+    />
+
+  </circle>
+
+  <text
+    x="420"
+    y="62"
+    fill="#3fb950"
+    font-family="monospace"
+    font-size="10"
+  >
+    ACTIVE
+  </text>
+
+  <!-- Central rings -->
+
+  <circle
+    cx="105"
+    cy="125"
+    r="48"
+    fill="none"
+    stroke="#21262d"
+    stroke-width="1"
+  />
+
+  <circle
+    cx="105"
+    cy="125"
+    r="36"
+    fill="none"
+    stroke="#58a6ff"
+    stroke-width="2"
+    stroke-dasharray="12 8"
+  >
+
+    <animateTransform
+      attributeName="transform"
+      type="rotate"
+      from="0 105 125"
+      to="360 105 125"
+      dur="10s"
+      repeatCount="indefinite"
+    />
+
+  </circle>
+
+  <circle
+    cx="105"
+    cy="125"
+    r="20"
+    fill="#58a6ff"
+    opacity="0.12"
+  />
+
+  <circle
+    cx="105"
+    cy="125"
+    r="8"
+    fill="#58a6ff"
+    filter="url(#glow)"
+  >
+
+    <animate
+      attributeName="r"
+      values="7;10;7"
+      dur="2s"
+      repeatCount="indefinite"
+    />
+
+  </circle>
+
+  <!-- Information -->
+
+  <text
+    x="180"
+    y="95"
+    fill="#ffffff"
+    font-family="Arial, sans-serif"
+    font-size="25"
+    font-weight="700"
+  >
+    OM SARDAR
+  </text>
+
+  <text
+    x="180"
+    y="122"
+    fill="#58a6ff"
+    font-family="monospace"
+    font-size="14"
+  >
+    FULL-STACK DEVELOPER
+  </text>
+
+  <line
+    x1="180"
+    y1="138"
+    x2="465"
+    y2="138"
+    stroke="#30363d"
+  />
+
+  <text
+    x="180"
+    y="164"
+    fill="#8b949e"
+    font-family="monospace"
+    font-size="12"
+  >
+    BACKEND • SYSTEM DESIGN
+  </text>
+
+  <text
+    x="180"
+    y="185"
+    fill="#8b949e"
+    font-family="monospace"
+    font-size="12"
+  >
+    CLOUD • AI/ML • DEVOPS
+  </text>
+
+  <!-- Moving scan line -->
+
+  <rect
+    x="20"
+    y="75"
+    width="480"
+    height="1"
+    fill="#58a6ff"
+    opacity="0.15"
+  >
+
+    <animate
+      attributeName="y"
+      values="70;205;70"
+      dur="5s"
+      repeatCount="indefinite"
+    />
+
+  </rect>
+
+</svg>

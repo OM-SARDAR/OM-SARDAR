@@ -1,0 +1,166 @@
+<svg width="520" height="180" viewBox="0 0 520 180"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <linearGradient id="focusGradient"
+                    x1="0%" y1="0%"
+                    x2="100%" y2="100%">
+
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+
+    </linearGradient>
+
+    <filter id="focusGlow">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+
+  </defs>
+
+  <rect
+    width="520"
+    height="180"
+    rx="18"
+    fill="url(#focusGradient)"
+    stroke="#30363d"
+  />
+
+  <!-- Radar -->
+
+  <circle
+    cx="95"
+    cy="90"
+    r="55"
+    fill="none"
+    stroke="#21262d"
+  />
+
+  <circle
+    cx="95"
+    cy="90"
+    r="40"
+    fill="none"
+    stroke="#21262d"
+  />
+
+  <circle
+    cx="95"
+    cy="90"
+    r="25"
+    fill="none"
+    stroke="#21262d"
+  />
+
+  <!-- Rotating radar -->
+
+  <line
+    x1="95"
+    y1="90"
+    x2="145"
+    y2="90"
+    stroke="#58a6ff"
+    stroke-width="2"
+  >
+
+    <animateTransform
+      attributeName="transform"
+      type="rotate"
+      from="0 95 90"
+      to="360 95 90"
+      dur="4s"
+      repeatCount="indefinite"
+    />
+
+  </line>
+
+  <circle
+    cx="95"
+    cy="90"
+    r="5"
+    fill="#58a6ff"
+  >
+
+    <animate
+      attributeName="opacity"
+      values="1;0.3;1"
+      dur="1.5s"
+      repeatCount="indefinite"
+    />
+
+  </circle>
+
+  <!-- Focus points -->
+
+  <circle cx="120" cy="65" r="3" fill="#58a6ff">
+    <animate
+      attributeName="opacity"
+      values="0.2;1;0.2"
+      dur="2s"
+      repeatCount="indefinite"
+    />
+  </circle>
+
+  <circle cx="65" cy="112" r="3" fill="#8b5cf6">
+    <animate
+      attributeName="opacity"
+      values="1;0.2;1"
+      dur="2.7s"
+      repeatCount="indefinite"
+    />
+  </circle>
+
+  <!-- Text -->
+
+  <text
+    x="180"
+    y="45"
+    fill="#ffffff"
+    font-family="Arial, sans-serif"
+    font-size="21"
+    font-weight="700"
+  >
+    CURRENT FOCUS
+  </text>
+
+  <text
+    x="180"
+    y="76"
+    fill="#58a6ff"
+    font-family="monospace"
+    font-size="12"
+  >
+    DSA
+  </text>
+
+  <text
+    x="180"
+    y="100"
+    fill="#8b949e"
+    font-family="monospace"
+    font-size="12"
+  >
+    SYSTEM DESIGN
+  </text>
+
+  <text
+    x="180"
+    y="124"
+    fill="#8b949e"
+    font-family="monospace"
+    font-size="12"
+  >
+    JAVA / SPRING BOOT
+  </text>
+
+  <text
+    x="180"
+    y="148"
+    fill="#8b949e"
+    font-family="monospace"
+    font-size="12"
+  >
+    AWS / DEVOPS / AI
+  </text>
+
+</svg>

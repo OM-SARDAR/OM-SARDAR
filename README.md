@@ -3,21 +3,18 @@
 <!--                      GitHub Profile README                               -->
 <!-- ══════════════════════════════════════════════════════════════════════════ -->
 
-
 <div align="center">
 
-<div align="center">
   <img
     src="./assets/oms.gif"
     width="100%"
     alt="Om Sardar — Full Stack Developer"
   />
-</div>
 
-  <h1>Om Sardar</h1>
+  <h1 align="center" style="font-family: Georgia, serif;">Om Sardar</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=540&height=30&lines=Full-Stack+Developer+%7C+Backend+Engineer;MERN+Stack+%7C+Java+%7C+Spring+Boot;System+Design+%7C+DSA+%7C+Cloud;Building+Scalable+Software" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=540&height=30&lines=Full-Stack+Developer+%7C+Backend+Engineer;MERN+Stack+%7C+Java+%7C+Spring+Boot;System+Design+%7C+DSA+%7C+Cloud;Building+Scalable+Software" alt="Typing SVG"/>
   </a>
 
   <br/>
@@ -68,57 +65,48 @@
 ---
 
 <!-- ══════════════════════════════════════════════════════════════════════════ -->
-<!--                              ABOUT                                       -->
+<!--                                ABOUT                                     -->
 <!-- ══════════════════════════════════════════════════════════════════════════ -->
 
-## About
-
-<table>
-<tr>
-
-<td width="55%" valign="top">
+<h2 align="center" style="font-family: Georgia, serif;" id="about">About</h2>
 
 <div align="center">
 
-<img
-  src="./assets/about.svg"
-  width="100%"
-  alt="Om Sardar developer profile"
-/>
+  <img
+    src="./assets/about.svg"
+    width="100%"
+    alt="Om Sardar developer profile"
+  />
 
 </div>
-
-### About Me
-
-Full-stack developer specializing in building scalable web
-applications with the MERN stack. Passionate about backend
-development, system design, cloud technologies, and AI.
 
 <br/>
 
-▸ **Education:** MCA — Kalyani Government Engineering College (KGEC), West Bengal
+<table width="100%">
+<tr>
 
-▸ **Location:** Kolkata, West Bengal, India
+<td width="50%" valign="top">
 
-▸ **Interests:** Backend Development, Distributed Systems, Cloud, AI/ML, Data Engineering
+<h3>About Me</h3>
 
-▸ **Hobbies:** Coffee, Painting, Blender, Exploring Tech
+Full-stack developer specializing in building scalable web applications
+with the MERN stack. Passionate about backend development, system design,
+cloud technologies, and AI.
+
+
+▸ <strong>Education:</strong> MCA — Kalyani Government Engineering College (KGEC), West Bengal
+
+▸ <strong>Location:</strong> Kolkata, West Bengal, India
+
+▸ <strong>Interests:</strong> Backend Development, Distributed Systems, Cloud, AI/ML, Data Engineering
+
+▸ <strong>Hobbies:</strong> Coffee, Painting, Blender, Exploring Tech
 
 </td>
 
-<td width="45%" valign="top">
+<td width="50%" valign="top">
 
-<div align="center">
-
-<img
-  src="./assets/focus.svg"
-  width="100%"
-  alt="Current development focus"
-/>
-
-</div>
-
-### Current Focus
+<h3>Current Focus</h3>
 
 ▸ Strengthening DSA and System Design fundamentals
 
@@ -130,20 +118,36 @@ development, system design, cloud technologies, and AI.
 
 ▸ Deepening Advanced AI/ML Integration
 
-### Goals
-
-▸ Become a professional Software Engineer
-
-▸ Work on impactful, scalable products
-
-▸ Contribute to meaningful open-source projects
-
-▸ Build systems that make a real difference
-
 </td>
 
 </tr>
 </table>
+
+<br/>
+
+<div align="center">
+
+  <img
+    src="./assets/focus.svg"
+    width="100%"
+    alt="Current development focus"
+  />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <img
+    src="./assets/goals.svg"
+    width="100%"
+    alt="Om Sardar — Goals and Engineering Vision"
+  />
+
+</div>
+
+<br/>
 
 ---
 
@@ -151,9 +155,11 @@ development, system design, cloud technologies, and AI.
 <!--                         TECHNOLOGY STACK                                 -->
 <!-- ══════════════════════════════════════════════════════════════════════════ -->
 
-## Technology Stack
+<h2 align="center" style="font-family: Georgia, serif;" id="technology-stack">============: Technology Stack :============</h2>
 
-### Core Technologies
+<h3 align="center" style="font-family: Georgia, serif;">==========:Core Technologies :==========</h3>
+
+<br/>
 
 <div align="center">
 
@@ -161,31 +167,31 @@ development, system design, cloud technologies, and AI.
 
 <img src="https://skillicons.dev/icons?i=java,js,py,cpp,php,dotnet,kotlin&theme=dark" alt="Languages"/>
 
-<br/><br/>
+<br/>
 
 **Frontend Development**
 
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,vite,redux&theme=dark" alt="Frontend"/>
 
-<br/><br/>
+<br/>
 
 **Backend & Databases**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,redis&theme=dark" alt="Backend and Databases"/>
 
-<br/><br/>
+<br/>
 
 **Java Ecosystem**
 
 <img src="https://skillicons.dev/icons?i=spring,hibernate,maven,gradle&theme=dark" alt="Java Ecosystem"/>
 
-<br/><br/>
+<br/>
 
 **Cloud & DevOps**
 
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,linux,ubuntu&theme=dark" alt="Cloud and DevOps"/>
 
-<br/><br/>
+<br/>
 
 **Developer Tools**
 
@@ -195,424 +201,287 @@ development, system design, cloud technologies, and AI.
 
 <br/>
 
-### Libraries & Frameworks
+<h2 align="center" style="font-family: Georgia, serif;" id="api--integrations">Libraries & Frameworks</h2>
 
-#### Frontend Libraries & UI
-
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=reactrouter&logoColor=white)
-![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat&logo=antdesign&logoColor=white)
-![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-000000?style=flat&logo=shadcnui&logoColor=white)
-![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat&logo=radixui&logoColor=white)
-![React Bootstrap](https://img.shields.io/badge/React_Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![MDB UI Kit](https://img.shields.io/badge/MDB_UI_Kit-2196F3?style=flat&logo=materialdesign&logoColor=white)
-
-#### Animation & Visualization
-
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white)
-![AOS](https://img.shields.io/badge/AOS-4285F4?style=flat&logo=javascript&logoColor=white)
-![Lenis](https://img.shields.io/badge/Lenis-000000?style=flat&logo=javascript&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white)
-
-#### Icons & UI Libraries
-
-![Font Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=flat&logo=fontawesome&logoColor=white)
-![React Icons](https://img.shields.io/badge/React_Icons-61DAFB?style=flat&logo=react&logoColor=black)
-![Lucide React](https://img.shields.io/badge/Lucide_React-F56565?style=flat&logo=lucide&logoColor=white)
-![React Hot Toast](https://img.shields.io/badge/React_Hot_Toast-FF6B6B?style=flat&logo=react&logoColor=white)
-![SweetAlert2](https://img.shields.io/badge/SweetAlert2-3085d6?style=flat&logo=javascript&logoColor=white)
-![React Toastify](https://img.shields.io/badge/React_Toastify-FF6B6B?style=flat&logo=react&logoColor=white)
-
-#### Backend Middleware & Utilities
-
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
-![Helmet](https://img.shields.io/badge/Helmet-000000?style=flat&logo=helmet&logoColor=white)
-![CORS](https://img.shields.io/badge/CORS-FF6C37?style=flat&logo=express&logoColor=white)
-![dotenv](https://img.shields.io/badge/dotenv-ECD53F?style=flat&logo=dotenv&logoColor=black)
-![Rate Limit](https://img.shields.io/badge/Rate_Limit-FF6B6B?style=flat&logo=express&logoColor=white)
-![Cookie Parser](https://img.shields.io/badge/Cookie_Parser-8B4513?style=flat&logo=express&logoColor=white)
-![Morgan](https://img.shields.io/badge/Morgan-000000?style=flat&logo=express&logoColor=white)
-![Winston](https://img.shields.io/badge/Winston-231F20?style=flat&logo=npm&logoColor=white)
-![Multer](https://img.shields.io/badge/Multer-FF6600?style=flat&logo=express&logoColor=white)
-![Express Validator](https://img.shields.io/badge/Express_Validator-404D59?style=flat&logo=express&logoColor=white)
-![Mongo Sanitize](https://img.shields.io/badge/Mongo_Sanitize-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![CSRF](https://img.shields.io/badge/CSRF-DC143C?style=flat&logo=npm&logoColor=white)
-
-#### Date, PDF & Utilities
-
-![Moment.js](https://img.shields.io/badge/Moment.js-2C5AA0?style=flat&logo=npm&logoColor=white)
-![Date-fns](https://img.shields.io/badge/Date--fns-770C56?style=flat&logo=npm&logoColor=white)
-![jsPDF](https://img.shields.io/badge/jsPDF-FF5722?style=flat&logo=adobeacrobatreader&logoColor=white)
-![PDF-lib](https://img.shields.io/badge/PDF--lib-FF5722?style=flat&logo=adobeacrobatreader&logoColor=white)
-![PDFKit](https://img.shields.io/badge/PDFKit-FF5722?style=flat&logo=adobeacrobatreader&logoColor=white)
-
-#### Additional Databases
-
-![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-
-#### Mobile Development
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
-
-#### Build & Quality Tools
-
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=black)
-![pip](https://img.shields.io/badge/pip-3776AB?style=flat&logo=python&logoColor=white)
-
-#### Additional IDEs
-
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)
-
----
-
-<!-- ══════════════════════════════════════════════════════════════════════════ -->
-<!--                        API & INTEGRATIONS                                -->
-<!-- ══════════════════════════════════════════════════════════════════════════ -->
-
-## API & Integrations
-
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
 
-<h4>Authentication & Security</h4>
+<td width="33%" valign="top">
 
-<p>
+<h4 align="center" style="font-family: Georgia, serif;">Frontend & UI</h4>
 
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth-4285F4?style=flat-square&logo=oauth&logoColor=white)
-![Passport](https://img.shields.io/badge/Passport-34E27A?style=flat-square&logo=passport&logoColor=white)
-![bcrypt](https://img.shields.io/badge/bcrypt-3178C6?style=flat-square&logo=npm&logoColor=white)
-![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=flat-square&logo=auth0&logoColor=white)
-![Google OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=flat-square&logo=google&logoColor=white)
-
-</p>
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=reactrouter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ant_Design-0170FE?style=flat&logo=antdesign&logoColor=white"/>
+<img src="https://img.shields.io/badge/ShadCN_UI-000000?style=flat&logo=shadcnui&logoColor=white"/>
+<img src="https://img.shields.io/badge/Radix_UI-161618?style=flat&logo=radixui&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/MDB_UI_Kit-2196F3?style=flat&logo=materialdesign&logoColor=white"/>
 
 <br/>
 
-<h4>Real-Time Communication</h4>
+<h4 align="center" style="font-family: Georgia, serif;">Backend & Middleware</h4>
 
-<p>
-
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-</p>
+<img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white"/>
+<img src="https://img.shields.io/badge/Helmet-000000?style=flat&logo=helmet&logoColor=white"/>
+<img src="https://img.shields.io/badge/CORS-FF6C37?style=flat&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/dotenv-ECD53F?style=flat&logo=dotenv&logoColor=black"/>
+<img src="https://img.shields.io/badge/Rate_Limit-FF6B6B?style=flat&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cookie_Parser-8B4513?style=flat&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Morgan-000000?style=flat&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Winston-231F20?style=flat&logo=npm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Multer-FF6600?style=flat&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express_Validator-404D59?style=flat&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mongo_Sanitize-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSRF-DC143C?style=flat&logo=npm&logoColor=white"/>
 
 </td>
-<td width="50%" valign="top">
 
-<h4>Cloud Storage & Media</h4>
+<td width="33%" valign="top">
 
-<p>
+<h4 align="center" style="font-family: Georgia, serif;">Animation & Visualization</h4>
 
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
-
-</p>
-
-<br/>
-
-<h4>AI & Machine Learning</h4>
-
-<p>
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
-
-</p>
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white"/>
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white"/>
+<img src="https://img.shields.io/badge/AOS-4285F4?style=flat&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lenis-000000?style=flat&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white"/>
 
 <br/>
 
-<h4>Email & Notifications</h4>
+<h4 align="center" style="font-family: Georgia, serif;">Icons & UX</h4>
 
-<p>
+<img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=flat&logo=fontawesome&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Icons-61DAFB?style=flat&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Lucide_React-F56565?style=flat&logo=lucide&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Hot_Toast-FF6B6B?style=flat&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/SweetAlert2-3085d6?style=flat&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Toastify-FF6B6B?style=flat&logo=react&logoColor=white"/>
 
-![Nodemailer](https://img.shields.io/badge/Nodemailer-339933?style=flat-square&logo=npm&logoColor=white)
+<br/>
 
-</p>
+<h4 align="center" style="font-family: Georgia, serif;">Date & PDF</h4>
+
+<img src="https://img.shields.io/badge/Moment.js-2C5AA0?style=flat&logo=npm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Date--fns-770C56?style=flat&logo=npm&logoColor=white"/>
+<img src="https://img.shields.io/badge/jsPDF-FF5722?style=flat&logo=adobeacrobatreader&logoColor=white"/>
+<img src="https://img.shields.io/badge/PDF--lib-FF5722?style=flat&logo=adobeacrobatreader&logoColor=white"/>
+<img src="https://img.shields.io/badge/PDFKit-FF5722?style=flat&logo=adobeacrobatreader&logoColor=white"/>
 
 </td>
+
+<td width="33%" valign="top">
+
+<h4 align="center" style="font-family: Georgia, serif;">Databases</h4>
+
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
+
+<br/>
+
+<h4 align="center" style="font-family: Georgia, serif;">Mobile Development</h4>
+
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white"/>
+
+<br/>
+
+<h4 align="center" style="font-family: Georgia, serif;">Build & Quality</h4>
+
+<img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=black"/>
+<img src="https://img.shields.io/badge/pip-3776AB?style=flat&logo=python&logoColor=white"/>
+
+<br/>
+
+<h4 align="center" style="font-family: Georgia, serif;">Development Environment</h4>
+
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white"/>
+
+</td>
+
 </tr>
 </table>
 
 ---
 
 <!-- ══════════════════════════════════════════════════════════════════════════ -->
-<!--                        FEATURED PROJECTS                                 -->
+<!--                           FEATURED PROJECTS                              -->
 <!-- ══════════════════════════════════════════════════════════════════════════ -->
 
-## Featured Projects
+<h2 align="center" style="font-family: Georgia, serif;" id="featured-projects">Featured Projects</h2>
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
 
-<h3>Auction-X</h3>
+<td colspan="3" valign="top">
+
+<h2 align="center" style="font-family: Georgia, serif;">01 · Auction-X</h2>
 
 <strong>Real-Time Bidding Platform</strong>
 
-<br/><br/>
+Full-featured auction platform built around real-time bidding, digital wallets,
+secure authentication, and cloud-based media storage.
 
-A full-featured auction platform with real-time bidding capabilities, digital wallet system, and secure authentication.
+<strong>Core</strong><br/>
 
-<br/><br/>
+Real-time bidding · Digital wallet · JWT authentication · Cloudinary
 
-<strong>Key Features</strong>
+<img src="https://img.shields.io/badge/MERN-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white"/>
 
-<ul>
-<li>Real-time bidding with Socket.IO</li>
-<li>Digital wallet and coin-based transactions</li>
-<li>JWT authentication and authorization</li>
-<li>Cloudinary integration for media storage</li>
-<li>Fully responsive design</li>
-</ul>
-
-<strong>Tech Stack</strong>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/MERN-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="MERN"/>
-<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.IO"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
-<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary"/>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-
-<br/><br/>
-
+<br/>
 <a href="https://github.com/OM-SARDAR/AUCTION-X-LOCALHOST">
-<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+
+<strong>VIEW SOURCE ↗</strong>
 </a>
 
 </td>
-<td width="50%" valign="top">
 
-<h3>Auction-X Enhanced</h3>
-
-<strong>AI-Integrated Real-Time Auction Platform</strong>
-
-<br/><br/>
-
-An enhanced auction platform with AI integration, real-time bidding, digital wallet system, and modern UI/UX.
-
-<br/><br/>
-
-<strong>Key Features</strong>
-
-<ul>
-<li>Real-time bidding with Socket.IO</li>
-<li>Digital wallet and coin-based transactions</li>
-<li>JWT authentication and authorization</li>
-<li>Cloudinary integration for media storage</li>
-<li>AI-powered features and responsive UI</li>
-</ul>
-
-<strong>Tech Stack</strong>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/MERN-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="MERN"/>
-<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.IO"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
-<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary"/>
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
-
-<br/><br/>
-
-<a href="https://github.com/OM-SARDAR/AUCTION-X-Enhanced-LOCALHOST">
-<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
-</a>
-
-</td>
 </tr>
+
 <tr>
-<td width="50%" valign="top">
 
-<h3>Eventra</h3>
+<td width="33%" valign="top">
 
-<strong>Smart Event Ticketing & Scanning System</strong>
+<h3 align="center" style="font-family: Georgia, serif;">02 · Auction-X Enhanced</h3>
 
-<br/><br/>
+<strong>AI-Integrated Auction Platform</strong>
 
-A smart event management platform enabling organizers to issue, verify, and scan tickets both online and offline using QR code technology.
+Real-time auction system enhanced with AI functionality and modern UI/UX.
 
-<br/><br/>
+<img src="https://img.shields.io/badge/MERN-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+<br/>
+<a href="https://github.com/OM-SARDAR/AUCTION-X-Enhanced-LOCALHOST">
+<strong>VIEW SOURCE ↗</strong>
+</a>
 
-<strong>Key Features</strong>
+</td>
 
-<ul>
-<li>QR-based ticket scanning (online and offline)</li>
-<li>E-ticket generation and validation</li>
-<li>JWT-based secure authentication</li>
-<li>Offline-first capabilities</li>
-<li>Fully responsive interface</li>
-</ul>
+<td width="33%" valign="top">
 
-<strong>Tech Stack</strong>
+<h3 align="center" style="font-family: Georgia, serif;">03 · Eventra</h3>
 
-<br/><br/>
+<strong>Smart Event Ticketing</strong>
 
-<img src="https://img.shields.io/badge/MERN-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="MERN"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
-<img src="https://img.shields.io/badge/QR_Scanner-000000?style=flat-square&logo=qrcode&logoColor=white" alt="QR Scanner"/>
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+Event platform for online/offline ticket issuing, validation, and QR scanning.
 
-<br/><br/>
+<img src="https://img.shields.io/badge/MERN-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/QR-000000?style=flat-square&logo=qrcode&logoColor=white"/>
 
+<br/>
 <a href="https://github.com/OM-SARDAR/EVENTRA-LOCALHOST">
-<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+<strong>VIEW SOURCE ↗</strong>
 </a>
 
 </td>
-<td width="50%" valign="top">
 
-<h3>Lucy Chat</h3>
+<td width="33%" valign="top">
 
-<strong>Real-Time Chat Platform with AI Integration</strong>
+<h3 align="center" style="font-family: Georgia, serif;">04 · Lucy Chat</h3>
 
-<br/><br/>
+<strong>Real-Time AI Chat Platform</strong>
 
-A real-time chatting platform featuring AI-powered chat functionality, image sharing, and modern UI/UX designed for performance and scalability.
+Real-time communication platform with AI chat, image sharing, authentication, and cloud storage.
 
-<br/><br/>
-
-<strong>Key Features</strong>
-
-<ul>
-<li>Real-time chatting with Socket.IO</li>
-<li>Text and image message sharing</li>
-<li>JWT authentication and authorization</li>
-<li>Cloudinary integration for media storage</li>
-<li>AI-powered chat buddy system</li>
-</ul>
-
-<strong>Tech Stack</strong>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/MERN-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="MERN"/>
-<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.IO"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
-<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary"/>
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
-
-<br/><br/>
-
+<img src="https://img.shields.io/badge/MERN-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+<br/>
 <a href="https://github.com/OM-SARDAR/LUCY-LOCALHOST">
-<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+<strong>VIEW SOURCE ↗</strong>
 </a>
 
 </td>
+
 </tr>
 </table>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                         GITHUB ANALYTICS                               -->
+<!--                           GITHUB ANALYTICS                              -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-## GitHub Analytics
+<h2 align="center" style="font-family: Georgia, serif;" id="github-analytics">GitHub Analytics</h2>
 
-<samp>Live GitHub metrics, development statistics, and contribution activity.</samp>
+<p align="center">
+  <samp>Live GitHub metrics, development statistics, and contribution activity.</samp>
+</p>
 
 <br>
 
-<div align="center">
+<!-- Profile Overview -->
 
-  <!-- Profile Overview -->
+<p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OM-SARDAR&theme=github_dark"
     width="100%"
     alt="GitHub Profile Details"
   />
+</p>
 
-  <br><br>
+<!-- Contribution Streak -->
 
-  <!-- Repository Languages -->
+<p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OM-SARDAR&theme=github_dark"
-    width="49%"
-    alt="Repositories Per Language"
+    src="https://streak-stats.demolab.com?user=OM-SARDAR&theme=github-dark-blue&hide_border=true"
+    width="70%"
+    alt="GitHub Contribution Streak"
   />
+</p>
 
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OM-SARDAR&theme=github_dark"
-    width="49%"
-    alt="Most Used Commit Languages"
-  />
+<!-- Statistics -->
 
-  <br><br>
-
-  <!-- GitHub Statistics -->
+<p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OM-SARDAR&theme=github_dark"
     width="49%"
     alt="GitHub Statistics"
-  />
-
-  <img
+  /><img
     src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OM-SARDAR&theme=github_dark&utcOffset=5.5"
     width="49%"
     alt="Productive Coding Time"
   />
+</p>
 
-  <br><br>
+<!-- Languages -->
 
-  <!-- Contribution Streak -->
+<p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=OM-SARDAR&theme=github-dark-blue&hide_border=true"
-    width="60%"
-    alt="GitHub Contribution Streak"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OM-SARDAR&theme=github_dark"
+    width="49%"
+    alt="Repositories Per Language"
+  /><img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OM-SARDAR&theme=github_dark"
+    width="49%"
+    alt="Most Used Commit Languages"
   />
-
-</div>
+</p>
 
 <br>
 
 ---
 
----
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+<!--                       CONTRIBUTION ACTIVITY                              -->
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
 
-## Activity Graph
+<h2 align="center" style="font-family: Georgia, serif;" id="contribution-activity">Contribution Activity</h2>
 
-<div align="center">
-
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=OM-SARDAR&theme=github-compact&hide_border=true&bg_color=0D0D0D&color=FFFFFF&line=888888&point=FFFFFF"
-    width="100%"
-    alt="Om Sardar GitHub Activity Graph"
-  />
-
-</div>
-
-<br>
-
----
-
----
-
-## Contribution Activity
-
-<div align="center">
-
+<p align="center">
   <img
     src="https://raw.githubusercontent.com/OM-SARDAR/OM-SARDAR/output/github-contribution-grid-snake-dark.svg"
-    width="98%"
+    width="100%"
     alt="GitHub Contribution Snake"
   />
-
-</div>
-
-<br>
+</p>
 
 <br>
 ---
@@ -621,25 +490,25 @@ A real-time chatting platform featuring AI-powered chat functionality, image sha
 <!--                       ENGINEERING MINDSET                                -->
 <!-- ══════════════════════════════════════════════════════════════════════════ -->
 
-## Engineering Mindset
+<h2 align="center" style="font-family: Georgia, serif;" id="engineering-mindset">Engineering Mindset</h2>
 
-<samp>Areas I am learning, studying, and building towards ─ not claims of production expertise.</samp>
+<p align="center">
+  <samp>Areas I am learning, studying, and building towards ─ not claims of production expertise.</samp>
+</p>
 
 <br/><br/>
 
-### System Architecture
+<h3 align="center" style="font-family: Georgia, serif;">System Architecture</h3>
 
 <div align="center">
-
   <img
     src="./assets/system-architecture.svg"
     width="100%"
     alt="System Architecture — Client, Load Balancer, API Application, and Observability"
   />
-
 </div>
 
-### Key Areas of Interest
+<h3 align="center" style="font-family: Georgia, serif;">Key Areas of Interest</h3>
 
 <table>
 <tr>
@@ -687,22 +556,19 @@ A real-time chatting platform featuring AI-powered chat functionality, image sha
 
 <br/>
 
-### Engineering Learning Loop
+<h3 align="center" style="font-family: Georgia, serif;">Engineering Learning Loop</h3>
 
-```
-      ┌────────┐       ┌────────┐       ┌────────┐
-      │ LEARN  │──────▶│ BUILD  │──────▶│  TEST  │
-      └────────┘       └────────┘       └────────┘
-           ▲                                 │
-           │                                 ▼
-      ┌────────┐       ┌────────┐       ┌────────┐
-      │IMPROVE │◀──────│MEASURE │◀──────│ DEPLOY │
-      └────────┘       └────────┘       └────────┘
-```
+<div align="center">
+  <img
+    src="./assets/engineering-loop.svg"
+    width="100%"
+    alt="Engineering Mindset — Learn, Build, Test, Deploy, Measure, Improve"
+  />
+</div>
 
 <br/>
 
-### Development Principles
+<h3 align="center" style="font-family: Georgia, serif;">Development Principles</h3>
 
 ```
  01  Understand the problem before writing code
@@ -723,7 +589,7 @@ A real-time chatting platform featuring AI-powered chat functionality, image sha
 <!--                             ROADMAP                                      -->
 <!-- ══════════════════════════════════════════════════════════════════════════ -->
 
-## Roadmap
+<h2 align="center" style="font-family: Georgia, serif;" id="roadmap">Roadmap</h2>
 
 | Foundation | Current Focus | Exploring | Next |
 |:-----------|:-------------|:----------|:-----|
@@ -737,7 +603,9 @@ A real-time chatting platform featuring AI-powered chat functionality, image sha
 
 <br/>
 
-<samp>Foundation = Built with &nbsp;&#8226;&nbsp; Current = Actively learning &nbsp;&#8226;&nbsp; Exploring = Starting to explore &nbsp;&#8226;&nbsp; Next = Future goals</samp>
+<p align="center">
+  <samp>Foundation = Built with &nbsp;&#8226;&nbsp; Current = Actively learning &nbsp;&#8226;&nbsp; Exploring = Starting to explore &nbsp;&#8226;&nbsp; Next = Future goals</samp>
+</p>
 
 ---
 
@@ -745,9 +613,11 @@ A real-time chatting platform featuring AI-powered chat functionality, image sha
 <!--                       REPOSITORY STRUCTURE                               -->
 <!-- ══════════════════════════════════════════════════════════════════════════ -->
 
-## Repository Structure
+<h2 align="center" style="font-family: Georgia, serif;" id="repository-structure">Repository Structure</h2>
 
-<samp>Example project structure — represents a general approach, not a specific repository.</samp>
+<p align="center">
+  <samp>Example project structure — represents a general approach, not a specific repository.</samp>
+</p>
 
 ```
 project/
@@ -785,7 +655,7 @@ project/
 <!--                          OPEN TO                                         -->
 <!-- ══════════════════════════════════════════════════════════════════════════ -->
 
-## Open To
+<h2 align="center" style="font-family: Georgia, serif;" id="open-to">Open To</h2>
 
 <table>
 <tr>
@@ -820,7 +690,7 @@ project/
 <!--                            CONNECT                                       -->
 <!-- ══════════════════════════════════════════════════════════════════════════ -->
 
-## Connect
+<h2 align="center" style="font-family: Georgia, serif;" id="connect">Connect</h2>
 
 <div align="center">
 
@@ -863,9 +733,5 @@ project/
   <br/><br/>
 
   <samp>Code &nbsp;&#8226;&nbsp; Learn &nbsp;&#8226;&nbsp; Build &nbsp;&#8226;&nbsp; Improve</samp>
-
-  <br/><br/>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer&text=&fontSize=0" width="100%" alt="footer"/>
 
 </div>
